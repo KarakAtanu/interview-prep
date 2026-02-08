@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="InterviewPrep.Api/InterviewPrep.Api.csproj" />
+  <Project Path="InterviewPrep.Application/InterviewPrep.Application.csproj" />
+  <Project Path="InterviewPrep.Domain/InterviewPrep.Domain.csproj" />
+  <Project Path="InterviewPrep.Infrastructure/InterviewPrep.Infrastructure.csproj" />
+  <Project Path="InterviewPrep.Tests/InterviewPrep.Tests.csproj" />
+</Solution>
